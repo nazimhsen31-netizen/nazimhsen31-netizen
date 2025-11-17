@@ -18,7 +18,7 @@ Welcome to my computer science portfolio. I am using this space to document my g
 
 ## 👋 Home / Introduction
 
-Hi, my name is **Nazim Hossen**. I am a second-year Computer Science student at the **University of Washington Tacoma**. I am interested in software development, cybersecurity, and how technology can be used to solve everyday problems.
+Hi, my name is **Nazim Hossen**. I am a second year Computer Science student at the **University of Washington Tacoma**. I am interested in AI, cybersecurity, and how technology can be used to solve everyday problems.
 
 This portfolio is a work in progress. As I learn new concepts and complete more projects, I will continue to update this page and my repositories.
 
