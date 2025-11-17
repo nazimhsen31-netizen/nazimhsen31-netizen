@@ -4,7 +4,7 @@ Welcome to my computer science portfolio. I am using this space to document my g
 
 ---
 
-## 📌 Quick Navigation
+## Quick Navigation
 
 - [Home / Introduction](#-home--introduction)
 - [About Me](#-about-me)
@@ -16,7 +16,7 @@ Welcome to my computer science portfolio. I am using this space to document my g
 
 ---
 
-## 👋 Home / Introduction
+## Home / Introduction
 
 Hi, my name is **Nazim Hossen**. I am a second year Computer Science student at the **University of Washington Tacoma**. I am interested in AI, cybersecurity, and how technology can be used to solve everyday problems.
 
@@ -27,7 +27,7 @@ This portfolio is a work in progress. As I learn new concepts and complete more 
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am currently studying Computer Science at UW Tacoma and working toward the BS track. I enjoy understanding how things work under the hood, which is why I am drawn to programming, problem solving, and systems that connect the digital and physical world.
 
@@ -41,7 +41,7 @@ Outside of class, I like working with technology, taking photos and videos, and 
 
 ---
 
-## 🚧 Projects (Work in Progress)
+## Projects (Work in Progress)
 
 I am at an early stage in my CS journey, so these projects are small and focused on learning fundamentals. I will keep improving them over time.
 
@@ -78,7 +78,7 @@ A small interactive program that presents sample emails and asks the user to dec
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### Programming Languages
 
@@ -99,7 +99,7 @@ A small interactive program that presents sample emails and asks the user to dec
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Customer Service Associate – The UPS Store  
 _Renton, WA • [add dates here, e.g., 2023 – Present]_
@@ -113,16 +113,16 @@ This job has helped me build strong communication, attention to detail, and prob
 
 ---
 
-## 📄 Resume
+## Resume
 
 You can view my full resume here:
 
-➡️ **[Download my resume (PDF)](resume.pdf)**
+ **[Download my resume (PDF)](resume.pdf)**
 
 
 ---
 
-## 📬 Contact
+## Contact
 
 I’m open to networking, feedback, and opportunities to learn.
 
