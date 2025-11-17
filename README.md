@@ -65,7 +65,7 @@ This portfolio itself is a project using GitHub and GitHub Pages. It is my first
 - **Repository:** This repository (`nazimhsen31-netizen`)
 - **Key Learnings:** Learned how to use version control, manage a repository, and publish content to the web.
 
----
+--- 
 
 ##  Skills
 
