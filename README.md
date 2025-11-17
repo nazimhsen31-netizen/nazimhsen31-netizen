@@ -67,17 +67,6 @@ This portfolio itself is a project using GitHub and GitHub Pages. It is my first
 
 ---
 
-### 3. Phishing Awareness Quiz (WIP)
-
-**Overview:**  
-A small interactive program that presents sample emails and asks the user to decide whether they are real or phishing. The goal is to help users recognize common red flags.
-
-- **Technologies:** Python (or JavaScript, depending on final version), basic I/O and control flow  
-- **Status:** Work in progress  
-- **Key Learnings (planned):** Improve user interaction, basic data handling, and input validation.
-
----
-
 ##  Skills
 
 ### Programming Languages
