@@ -117,9 +117,8 @@ This job has helped me build strong communication, attention to detail, and prob
 
 You can view my full resume here:
 
-➡️ **[Download my resume (PDF)](resume.pdf)**
+➡️ **[Download my resume (PDF)](Nazim_Hossen_Resume.pdf)**
 
-> _Note: This link assumes a file named `resume.pdf` is stored in the root of this repository._
 
 ---
 
