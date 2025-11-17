@@ -129,6 +129,6 @@ I’m open to networking, feedback, and opportunities to learn.
 
 - **Email:** nazimhsen31@gmail.com  
 - **GitHub:** [github.com/nazimhsen31-netizen](https://github.com/nazimhsen31-netizen)  
-- **LinkedIn:** _Coming soon – will be added when my profile is ready._
+- **LinkedIn:** www.linkedin.com/in/nazim-hossen
 
 Thank you for visiting my portfolio. This page will keep growing as I complete more coursework and projects.
