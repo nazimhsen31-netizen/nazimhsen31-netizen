@@ -91,7 +91,7 @@ This portfolio itself is a project using GitHub and GitHub Pages. It is my first
 ##  Experience
 
 ### Customer Service Associate – The UPS Store  
-_Renton, WA • [add dates here, e.g., 2023 – Present]_
+_Renton, WA • [2023 – Present]_
 
 - Assist customers with shipping, printing, and packaging services in a fast-paced environment.
 - Handle payments and confidential documents with accuracy and professionalism.
