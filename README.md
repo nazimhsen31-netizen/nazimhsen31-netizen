@@ -67,6 +67,16 @@ This portfolio itself is a project using GitHub and GitHub Pages. It is my first
 
 --- 
 
+### 3. Shapes hierarchy
+
+**Overview:**  
+Overview:
+A Java application demonstrating object-oriented programming principles through a hierarchy of geometric shapes. This project showcases inheritance, polymorphism, and the factory design pattern to create and manipulate different shape objects with shared and unique behaviors.
+- **Technologies:** Java, Object-Oriented Programming, Factory Design Pattern
+- **Key Learnings:** Learned how to implement inheritance hierarchies, use abstract classes and interfaces, apply the factory pattern for object creation, and practice polymorphic behavior across different shape types.
+
+--- 
+
 ##  Skills
 
 ### Programming Languages
